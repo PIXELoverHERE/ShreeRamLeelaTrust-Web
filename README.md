@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/images/logo.png" alt="Shree Ram Leela Seva Trust Logo" width="120" height="120" />
+<img src="public/images/ramleela-gaur-logo.png" alt="Shree Ram Leela Seva Trust Logo" width="120" height="120" />
 
 # 🪔 Shree Ram Leela Seva Trustz
 
