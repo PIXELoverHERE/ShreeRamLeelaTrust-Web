@@ -1,0 +1,67 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# ─── Dependencies ────────────────────────────────────────────────────────────
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# ─── Environment & Secrets (NEVER commit these) ───────────────────────────────
+.env
+.env.*
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+# ─── Database / ORM ──────────────────────────────────────────────────────────
+/src/generated/
+.neon
+
+# ─── Next.js Build Artifacts ─────────────────────────────────────────────────
+/.next/
+/out/
+/build
+
+# ─── Testing ─────────────────────────────────────────────────────────────────
+/coverage
+
+# ─── TypeScript ──────────────────────────────────────────────────────────────
+*.tsbuildinfo
+next-env.d.ts
+
+# ─── Logs & Debug ────────────────────────────────────────────────────────────
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+
+# ─── OS / Editor junk ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.pem
+.vscode/settings.json
+.vscode/launch.json
+
+# ─── Deployment ──────────────────────────────────────────────────────────────
+.vercel
+
+# ─── Scratch / Temporary / Dev-only files ────────────────────────────────────
+scratch.html
+scratch_prisma_test.js
+download_images.js
+temp_temp.png
+*.tmp
+*.bak
+
+# ─── AI Agent / Internal metadata (not relevant to contributors) ─────────────
+AGENTS.md
+CLAUDE.md
