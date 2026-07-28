@@ -2,9 +2,7 @@
 
 <img src="public/images/logo.png" alt="Shree Ram Leela Seva Trust Logo" width="120" height="120" />
 
-# 🪔 Shree Ram Leela Seva Trust
-
-### *गौर सिटी — नोएडा एक्सटेंशन*
+# 🪔 Shree Ram Leela Seva Trustz
 
 **The official digital home of Shree Ram Leela Seva Trust — preserving culture, celebrating devotion.**
 
@@ -209,9 +207,5 @@ All rights reserved © Shree Ram Leela Seva Trust, Gaur City, Noida Extension.
 ---
 
 <div align="center">
-
-*जय श्री राम* 🙏
-
-**Made with ❤️ for the devotees of Gaur City**
 
 </div>
